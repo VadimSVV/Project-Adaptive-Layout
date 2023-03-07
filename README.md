@@ -1,3 +1,4 @@
 Адаптивный сайт
 
-Запустить: https://VadimSVV.github.io/Project-Adaptive-Layout/
+<a href="https://VadimSVV.github.io/Project-Adaptive-Layout/" target="_blank">Запустить</a>
+
